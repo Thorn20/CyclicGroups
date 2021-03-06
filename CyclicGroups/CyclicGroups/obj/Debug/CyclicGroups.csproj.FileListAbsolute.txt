@@ -1,0 +1,7 @@
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\bin\Debug\CyclicGroups.exe.config
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\bin\Debug\CyclicGroups.exe
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\bin\Debug\CyclicGroups.pdb
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\obj\Debug\CyclicGroups.csprojAssemblyReference.cache
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\obj\Debug\CyclicGroups.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\obj\Debug\CyclicGroups.exe
+C:\Users\damon\source\repos\CyclicGroups\CyclicGroups\obj\Debug\CyclicGroups.pdb
